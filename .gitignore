@@ -1,0 +1,5 @@
+# Files to be ignored
+
+# Intelli J specific files
+/.idea/
+*.iml
